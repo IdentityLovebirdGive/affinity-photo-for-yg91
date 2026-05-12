@@ -1,4 +1,4 @@
-# 
+# Enhance Affinity Designer for macOS with Affinity Designer for macOS new Panel - masking tools and shortcut customization, the #1 panel. Includes masking tools and shortcut
 
 
 
